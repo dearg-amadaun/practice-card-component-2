@@ -7,7 +7,7 @@ function App() {
     <div className='App'>
             <Card
             title='Card Title'
-            image=''
+            image='https://picsum.photos/200'
             body='Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse, aliquam.'
             />
         </div>
